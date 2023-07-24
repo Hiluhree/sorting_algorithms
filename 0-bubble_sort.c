@@ -1,7 +1,3 @@
-/*
- * File: 0-bubble_sort.c
- *
- */
 #include "sort.h"
 
 /**
